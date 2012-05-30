@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">MotivationalPuZZle.\nA month;y reminder to get off your ass!</string>
+    <string name="app_name">Motivational PuZZle</string>
+    <string-array name="people">
+        <item >PuZZleDucK</item>
+        <item >Marylyn Manson</item>
+        <item >Jello Biafra</item>
+        <item >Henry Rollins</item>
+        <item >O\'reilly</item>
+        <item >South Park</item>
+        <item >Eris</item>
+        <item >Satan</item>
+        <item >Darth Vader</item>
+        <item >Emperor Palpatine</item>
+    </string-array>
+
+</resources>
